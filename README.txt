@@ -1,0 +1,1 @@
+Your README file should explain the installation process in addition to the location of your SQL Dumps and any relevant user / admin user login information needed to test the application.
